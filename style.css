@@ -2,4 +2,8 @@ html {
     height: 100%;
     width: 100%;
   }
+
+  .name ol{
+    font-size: 24px;
+  }
   
